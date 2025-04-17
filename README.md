@@ -1,1 +1,3 @@
-I love 3D printers and all sorts of maker gear. And Batman.
+- Mechanical Engineering student at POLIBA (Italy);
+- Former R&D intern at Roboze;
+- FDM-focused maker.
