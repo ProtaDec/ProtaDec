@@ -1,3 +1,3 @@
-- Mechanical Engineering student at POLIBA (Italy);
+- Mechanical Engineering student at POLIBA;
 - Former R&D intern at Roboze;
 - FDM-focused maker.
